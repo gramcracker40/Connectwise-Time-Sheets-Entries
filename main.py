@@ -4,7 +4,7 @@ from get_time_entries import get_time_entries
 from employee_work_week import WorkWeek
 
 time_periods = get_time_sheets.get_all_time_periods()
-recent_period = get_time_sheets.get_time_period(date.today()) - 1
+recent_period = get_time_sheets.get_time_period(date.today())
 
 start_and_end = time_periods[recent_period]
 
