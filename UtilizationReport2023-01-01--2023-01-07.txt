@@ -1,0 +1,17 @@
+Utilization report for 2023-01-01 --- 2023-01-07
+
+Tim Burton : 0.77  --- Billed: 26.42 hrs , Total: 34.23 hrs
+Adam Provance : 0.52  --- Billed: 16.75 hrs , Total: 32.05 hrs
+Joe Shuler : 0.45  --- Billed: 14.5 hrs , Total: 32.25 hrs
+Billy Anglea : 0.79  --- Billed: 24.5 hrs , Total: 31.0 hrs
+Ryan Offutt : 0.73  --- Billed: 10.75 hrs , Total: 14.75 hrs
+Joe Vannucci : 0.0  --- Billed: 0 hrs , Total: 8.68 hrs
+Russell Marshall : 0.57  --- Billed: 15.77 hrs , Total: 27.72 hrs
+Jason Murphy : 0.67  --- Billed: 16.0 hrs , Total: 23.72 hrs
+Megan Sternadel : 0.0  --- Billed: 0 hrs , Total: 0.07 hrs
+Steven Qualls : 0.81  --- Billed: 25.75 hrs , Total: 31.75 hrs
+Tim Castle : 0.62  --- Billed: 20.59 hrs , Total: 33.0 hrs
+John  Easterwood : 0.72  --- Billed: 1.5 hrs , Total: 2.08 hrs
+Garrett Mathers : 0.0  --- Billed: 0 hrs , Total: 32.04 hrs
+Kevin Neal : 0.43  --- Billed: 4.75 hrs , Total: 11.06 hrs
+Blake Hamilton : 0.0  --- Billed: 0 hrs , Total: 0.5 hrs
